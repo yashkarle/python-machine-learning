@@ -1,3 +1,6 @@
 1. np.unique(arr): returns a list of unique elements from the array
 2. np.meshgrid(xvalues,yvalues): returns a rectangular grid of xvalues and yvalues
 3. np.countorf: plots x and y regions according to the predictions along z-axis
+4. sklearn.preprocessing.StandardScaler: standardizing the features
+5. np.bincount: count number of occurrences of each value in an array
+
